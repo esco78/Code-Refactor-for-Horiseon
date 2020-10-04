@@ -16,6 +16,8 @@ With the new refactored code, this project has allowed the Horiseon's nav bar to
 
 ## Usage
 
+* View functional website at the following URL: http://esco78.github.io/Code-Refactor-for-Horiseon
+* Scroll through site and check functionality of the navbar.
 * Step 5 under installation above is a good example of usage. Simply scroll through each annotated section of the html and css file to see how website functions.
 * Basic programmer courtesy calls for leaving code cleaner than what is given.
 * This project is a refactoring of the code to ensure Horiseon's webpage functions properly and is compatible with Search Engine Optimization. All other uses would depend on the company itself.
